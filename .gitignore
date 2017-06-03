@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.DS\_Store
+config.codekit
+_paintings/*/*.png
+_paintings/*/raw
+_paintings/*/designs
+_paintings/*/designs/*.pxm
+

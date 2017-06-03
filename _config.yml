@@ -1,0 +1,33 @@
+#baseurl: https://heirloompixels.github.io/modernancient.org/
+baseurl:
+title: modern ancient.
+subtitle: quips and glimses
+author: kyle cunningham
+simple_search: http://google.com/search
+description: art and jewelery
+name: cunningham
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /articles/:short_year/:title
+timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md', '_paintings/*/raw/*', '_paintings/*/*.pxm', '_paintings/*/*.png']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: gvim
+git:
+  branch: master
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/
+  destination: ~/Git/clayh53.github.com/
+
+collections:
+  paintings:
+    output: true
+

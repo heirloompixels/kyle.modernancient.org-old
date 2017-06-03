@@ -1,0 +1,45 @@
+---
+layout: page
+title: blog
+# Note that this index page uses a full-width layout!
+---
+
+  <h1 class="content-listing-header sans">Articles</h1>
+The collected (condensed) works of Kyle Cunningham, painter and desert dweller.  Printmaker and purveyor of handcrafted adornment. Notes and rumination upon various subjects pertaining and not pertaining to his own creations.  This is a collection of established quips and visual cues accompanied.
+
+
+
+  <ul class="content-listing ">
+    {% for post in site.posts %}      
+        <li class="listing">
+          <hr class="slender">
+          <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+          <div>{{ post.excerpt }}</div> 
+        </li>
+    {% endfor %}
+  </ul>
+
+
+  <h1 class="content-listing-header sans">Paintings</h1>
+  <ul class="content-listing ">
+    {% for post in site.tags.paintings %}      
+        <li class="listing">
+          <hr class="slender">
+          <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+          <figure >
+             <img src="{{ post.image }}"> 
+          </figure>
+        </li>
+    {% endfor %}
+  </ul>
+
+
+  <h1 class="content-listing-header sans">Paintings</h1>
+  <ul class="content-listing ">
+    {% for post in site.tags.paintings %}      
+        <li style="float: left;" class="listing">
+             <img height="200px" src="{{ post.image }}"> 
+        </li>
+    {% endfor %}
+  </ul>
