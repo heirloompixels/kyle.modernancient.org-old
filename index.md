@@ -1,16 +1,16 @@
 ---
 layout: post
-title: introduction  
+title: words (sparse)
 ---
 
-Digital ruminations. 
-Collections. 
-Thoughts. 
-Theories, both sound or otherwise. 
-Whispers. 
-Contemplations and conundrums.  Misunderstandings a sublime synchronicity. 
+Digital ruminations.    
+Collections.   
+Thoughts.  
+Theories, both sound or otherwise.  
+Whispers.  
+Contemplations and conundrums.  Misunderstandings a sublime synchronicity.  
 
-{% newthought 'The collected (condensed) works' %} of Kyle Cunningham, painter and desert dweller.  Printmaker and purveyor of handcrafted adornment. Notes and rumination upon various subjects pertaining and not pertaining to his own creations.  This is a collection of established quips and visual cues accompanied.{% sidenote 'sn-id-whatever' 'This is not a normal website, not in the portfolio sense.  Rather it is an art project of its own, my portfolio forming a foundation of the contents of this creation.  It’s not a blog or a scrapbook but rather a book in the metaphorical sense.  A collection of my thoughts, creations, motivations, ideas, desires and actions in life.'%}
+<span class="newthought">The collected (condensed) works</span> of Kyle Cunningham, painter and desert dweller.  Printmaker and purveyor of handcrafted adornment. Notes and rumination upon various subjects pertaining and not pertaining to his own creations.  This is a collection of established quips and visual cues accompanied.{% sidenote 'sn-id-whatever' 'This is not a normal website, not in the portfolio sense.  Rather it is an art project of its own, my portfolio forming a foundation of the contents of this creation.  It’s not a blog or a scrapbook but rather a book in the metaphorical sense.  A collection of my thoughts, creations, motivations, ideas, desires and actions in life.'%}
  
 
 
