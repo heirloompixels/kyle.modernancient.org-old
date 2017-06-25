@@ -5,7 +5,7 @@ title: Live Painting
 ## Live Painting
 
 
-{% newthought 'I like to paint fast.'%} and in front of people. Decisively.  With a bit of flair. Panache.
+<span clas="newthought"> I like to paint fast.</span> and in front of people. Decisively.  With a bit of flair. Panache.
 
 It looks as follows: 
 
