@@ -15,7 +15,7 @@ Contemplations and conundrums.  Misunderstandings a sublime synchronicity.
  
 
 
-There is a portfolio of sorts [here](/oeuvre "oeuvre"). 
+There is a portfolio of sorts [here](/paintings "oeuvre"). 
 
 
 Waterfalls in the desert.  That is magical; sublimely unexpected. 
