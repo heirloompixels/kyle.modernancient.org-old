@@ -32,3 +32,4 @@ Projects:
 9) Oil Cans  
 10) Murals (enumerated)  
 11) abstract  
+12) stories
