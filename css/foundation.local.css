@@ -1,3 +1,33 @@
+#title { 
+  font-size: 1.5rem; 
+  font-weight: bold; 
+}
+
+.top-bar a {
+  color: #ff7e79; 
+}
+
+.responsive-blog-footer ul {
+  margin-top: 1rem;
+  margin-left: 0; 
+  list-style-type: none; 
+}
+
+
+
+.embed-container { position: relative; 
+  padding-bottom: 56.25%; 
+  height: 0; 
+  overflow: hidden; 
+  max-width: 100%; } 
+.embed-container iframe, .embed-container object, .embed-container embed { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 100%; }
+
+
 
 .responsive-blog-footer {
   background: #4a4a4a;
