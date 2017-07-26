@@ -1,10 +1,33 @@
-#title { 
+.grid-container h1 { 
   font-size: 1.5rem; 
   font-weight: bold; 
 }
 
 .top-bar a {
-  color: #ff7e79; 
+  color: #000; 
+  font-size: 1.5em;
+}
+
+#social a {
+  font-size: 2em; 
+}
+
+#social a {
+  margin: 0 1em 0 0;  
+}
+a, a:visited {
+      text-decoration: underline; 
+}
+
+a {
+  color: #000;
+  font-weight: bold; 
+  text-decoration: none;
+  line-height: inherit; }
+a:hover, a:focus {
+    color: #ff7e79; }
+a img {
+  border: none; 
 }
 
 .responsive-blog-footer ul {
