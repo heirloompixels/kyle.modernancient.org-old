@@ -29,6 +29,15 @@ a img {
   border: none; 
 }
 
+#chapters {
+  list-style-type: none; 
+  margin: 0 1em; 
+  
+}
+#chapters li {
+  margin-right: 1em;
+}
+
 .responsive-blog-footer ul {
   margin-top: 1rem;
   margin-left: 0; 
